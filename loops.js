@@ -25,4 +25,4 @@ function doWhileLoop(array) {
 }
 do {
   console.log(array)
-} while (maybeTrue())
+} while (maybeTrue());
