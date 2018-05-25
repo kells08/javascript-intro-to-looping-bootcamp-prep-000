@@ -23,4 +23,4 @@ function doWhileLoop(array) {
 }
 do {
   console.log(array)
-} while 
+} while (maybeTrue())
