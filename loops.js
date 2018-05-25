@@ -19,8 +19,8 @@ function whileLoop(n) {
 }
 
 function doWhileLoop(array) {
-  
+  return maybeTrue() 
 }
 do {
-  
+  console.log(array)
 } while 
